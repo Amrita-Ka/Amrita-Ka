@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amrita-Ka
+- 👋 Hi, I’m @Emrata.
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Statistics for ML
 - 💞️ I’m looking to collaborate on Data Analysis projects
