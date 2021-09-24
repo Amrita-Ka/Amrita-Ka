@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Amrita.
+- 👋 Hi, I’m Amrita.
 - 👀 I’m interested in Data Science and Analytics.
 - 🌱 I’m currently pursuing Post graduation in Data Science and Engineering.
 - 💞️ I’m looking to collaborate on Data Science / Analysis projects. 
