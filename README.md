@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emrata.
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Statistics for ML
+- 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on Data Analysis projects
 - 📫 How to reach me You can reach me at amrita687@gmail.com through Email.
 
